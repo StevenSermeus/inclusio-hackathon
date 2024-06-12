@@ -1,0 +1,7 @@
+.venv
+__pycache__/*
+*/__pycache__/*
+ressources/all_pdf_in_one.pdf
+code/backend/__pycache__/*
+static/*.png
+__pycache__
